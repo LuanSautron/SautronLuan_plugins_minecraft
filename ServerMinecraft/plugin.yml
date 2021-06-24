@@ -1,0 +1,7 @@
+name: Test Plugin Server
+version:  42
+description:  Plugin toto
+author: Luan
+main: fr.luan.FirstServer.Main
+commands:
+  spawn:
